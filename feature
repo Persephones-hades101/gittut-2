@@ -1,1 +1,1 @@
-conflict 2
+to resolve the conflict you couold have chosen conflict 1 or conflict 2 or none and could have give any other change 
